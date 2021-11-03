@@ -7,11 +7,10 @@ This sample code shows the usage of our SH1106 based [OLED shield](https://www.h
 
 Please connect the following ports of the Pico with the Shield:
 
-Pico    Shield
-* GND   GND
-* 3V3   VCC
-* GP12  SDA
-* GP13  SCL
+* GND - GND
+* 3V3 - VCC
+* GP12 - SDA
+* GP13 - SCL
 
 
 
