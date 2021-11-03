@@ -1,6 +1,6 @@
-#Python code examples for OLED displays shield and RP2040 controller
+# Python code examples for OLED displays shield and RP2040 controller
 
-##CircuitPython
+## CircuitPython
 
 Copy the following additional Python modules and folders in the lib folder of the circuitpi drive:
 
@@ -14,9 +14,9 @@ Copy the following additional Python modules and folders in the lib folder of th
 You will find all needed libraries here https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases
 
 
-##Micro Python
+## Micro Python
 
 Coming soon.
 
 
-##Licence
+## Licence
