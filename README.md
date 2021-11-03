@@ -7,11 +7,11 @@ This sample code shows the usage of our SH1106 based [OLED shield](https://www.h
 
 Please connect the following ports of the Pico with the Shield:
 
-Pico  Shield
-GND   GND
-3V3   VCC
-GP12  SDA
-GP13  SCL
+Pico    Shield
+* GND   GND
+* 3V3   VCC
+* GP12  SDA
+* GP13  SCL
 
 
 
@@ -34,4 +34,15 @@ You will find all needed libraries here https://github.com/adafruit/Adafruit_Cir
 Coming soon.
 
 
-## Licence
+## License
+
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation; either
+version 2.1 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+Lesser General Public License for more details.
+
