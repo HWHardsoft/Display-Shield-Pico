@@ -3,7 +3,7 @@ This sample code shows the usage of our SH1106 based [OLED shield](https://www.h
 
 ## Hardware
 
-![AZ-Touch Pi0](https://user-images.githubusercontent.com/3049858/79135621-eef4f080-7daf-11ea-97a6-8760266a50bb.jpg)
+![OLED Shield and Pico](https://user-images.githubusercontent.com/3049858/140047495-2c8ce6a4-6ac1-4a37-80f5-3d2eb1f65ffd.jpg)
 
 Please connect the following ports of the Pico with the Shield:
 
