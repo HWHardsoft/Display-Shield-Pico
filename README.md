@@ -28,9 +28,12 @@ Copy the following additional Python modules and folders in the lib folder of th
 You will find all needed libraries here https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases
 
 
-## Micro Python
+## MicroPython
 
-Coming soon.
+Needs following additional libraries:
+
+[Driver for the SH1106 display](https://github.com/robert-hh/SH1106)
+[SMBus class for use on micropython](https://github.com/gkluoe/micropython-smbus)
 
 
 ## License
